@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "label": "A",
+      "child": [
+        {
+          "id": 2,
+          "label": "B",
+          "child": [
+            {
+              "id": 5,
+              "label": "E"
+            }, {
+              "id": 6,
+              "label": "E"
+            }, {
+              "id": 7,
+              "label": "E"
+            }
+          ]
+        }, {
+          "id": 3,
+          "label": "C"
+        }, {
+          "id": 4,
+          "label": "D",
+          "child": [
+            {
+              "id": 8,
+              "label": "H"
+            }, {
+              "id": 9,
+              "label": "I"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
